@@ -1,0 +1,14 @@
+C:\Users\maria\source\repos\DataModels\DataModels\bin\Debug\net6.0\HDataAccess.deps.json
+C:\Users\maria\source\repos\DataModels\DataModels\bin\Debug\net6.0\HDataAccess.runtimeconfig.json
+C:\Users\maria\source\repos\DataModels\DataModels\bin\Debug\net6.0\HDataAccess.dll
+C:\Users\maria\source\repos\DataModels\DataModels\bin\Debug\net6.0\HDataAccess.pdb
+C:\Users\maria\source\repos\DataModels\DataModels\obj\Debug\net6.0\HDataAccess.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\DataModels\DataModels\obj\Debug\net6.0\HDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\DataModels\DataModels\obj\Debug\net6.0\HDataAccess.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\DataModels\DataModels\obj\Debug\net6.0\HDataAccess.AssemblyInfo.cs
+C:\Users\maria\source\repos\DataModels\DataModels\obj\Debug\net6.0\HDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\DataModels\DataModels\obj\Debug\net6.0\HDataAccess.dll
+C:\Users\maria\source\repos\DataModels\DataModels\obj\Debug\net6.0\refint\HDataAccess.dll
+C:\Users\maria\source\repos\DataModels\DataModels\obj\Debug\net6.0\HDataAccess.pdb
+C:\Users\maria\source\repos\DataModels\DataModels\obj\Debug\net6.0\HDataAccess.genruntimeconfig.cache
+C:\Users\maria\source\repos\DataModels\DataModels\obj\Debug\net6.0\ref\HDataAccess.dll

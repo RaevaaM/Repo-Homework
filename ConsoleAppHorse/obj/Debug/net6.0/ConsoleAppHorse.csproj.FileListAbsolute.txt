@@ -1,0 +1,5 @@
+C:\Users\maria\source\repos\DataModels\ConsoleAppHorse\obj\Debug\net6.0\ConsoleAppHorse.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\DataModels\ConsoleAppHorse\obj\Debug\net6.0\ConsoleAppHorse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\DataModels\ConsoleAppHorse\obj\Debug\net6.0\ConsoleAppHorse.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\DataModels\ConsoleAppHorse\obj\Debug\net6.0\ConsoleAppHorse.AssemblyInfo.cs
+C:\Users\maria\source\repos\DataModels\ConsoleAppHorse\obj\Debug\net6.0\ConsoleAppHorse.csproj.CoreCompileInputs.cache
